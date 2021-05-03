@@ -1,8 +1,8 @@
 <img align="right" src="https://sentralservers.files.wordpress.com/2016/08/when-the-design-failings-we_ve-been-warning-of-since-forever-finally-bite-hard.gif" />
 
-### Eai meu Consagrado!
+# Eai meu Consagrado!
 
-### Em meus respositórios publicos você vai encontrar conteudos utilizando as seguintes ferramentas:
+Em meus respositórios publicos você vai encontrar conteúdos utilizando as seguintes ferramentas:
 
 - Kubernetes
 - Docker
@@ -11,8 +11,9 @@
 - Prometheus
 - CI/CD
 
-Para me conhecer melhor ou entrar em contato segue o 
+Obrigado [metrics.lecoq.io](https://metrics.lecoq.io/)
 
 
 
-https://metrics.lecoq.io/about/igorguima
+
+
