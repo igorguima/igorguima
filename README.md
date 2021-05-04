@@ -4,7 +4,7 @@
 
 Meu nome é Igor e trabalho atualmente como DevOps Engineer!
 
-Em meus respositórios publicos você irá encontrar conteúdos utilizando as seguintes ferramentas:
+Em meus respositórios publicos você irá encontrar conteúdos que utilizam as seguintes ferramentas:
 
 - Kubernetes
 - Docker
