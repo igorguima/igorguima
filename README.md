@@ -10,10 +10,14 @@ Em meus respositórios publicos você irá encontrar conteúdos utilizando as se
 - Grafana
 - Prometheus
 - CI/CD
+- Nginx
+- API
+- Swagger
+- MongoDB
 
 Para saber mais de minha pessoa e so entrar no [Linkedin](https://www.linkedin.com/in/igor-pedroso-guimarães/)
 
-Obrigado [metrics.lecoq.io](https://metrics.lecoq.io/)
+
 
 
 
