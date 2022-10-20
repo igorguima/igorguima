@@ -47,12 +47,4 @@ MYSQL
 <img src="https://miro.medium.com/max/436/1*VNnjf7gNBYsrdgzi8SFfFw.png" width="30"> -
 Apache Zookeeper
 
-
-Para saber mais de minha pessoa e so entrar no [Linkedin](https://www.linkedin.com/in/igor-pedroso-guimarães/)
-
-
-
-
-
-
-
+Para saber mais acesse meu [Linkedin](https://www.linkedin.com/in/igor-pedroso-guimarães/)
