@@ -8,7 +8,7 @@ Em meus respositórios publicos você irá encontrar conteúdos que utilizam as 
 
 <img src="https://styles.redditmedia.com/t5_33f68/styles/communityIcon_w3qxa8j08vj01.png?width=256&s=32af7df21e857e731a8edcb8fb38493eee1fc8f0" width="30"> - Kubernetes
 
-<img src="https://www.cloudlabs.com.br//wp-content/uploads/2017/07/whale-docker-logo.png" width="30"> -
+<img src="https://www.devopsmadness.com/images/dockerventure_1/docker_logo.png" width="30"> -
 Docker
 
 <img src="https://sretips.com.br/images/kubernetes/helm.svg" width="30"> -
