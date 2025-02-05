@@ -34,13 +34,7 @@ MongoDB
 <img src="https://assets.zabbix.com/img/brands/elastic.svg" width="30"> -
 ElasticSearch
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/1024px-Apache_kafka-icon.svg.png" width="30"> -
-Kafka
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/1200px-Mysql.svg.png" width="30"> -
 MYSQL
-
-<img src="https://miro.medium.com/max/436/1*VNnjf7gNBYsrdgzi8SFfFw.png" width="30"> -
-Apache Zookeeper
 
 Para saber mais acesse meu [Linkedin](https://www.linkedin.com/in/igor-pedroso-guimarães/)
