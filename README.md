@@ -22,9 +22,6 @@ CI/CD
 <img src="https://clouddocs.f5.com/training/community/nginx/html/_images/module1.png" width="30"> -
 Nginx
 
-<img src="https://image.flaticon.com/icons/png/512/1493/1493169.png" width="30"> -
-API
-
 <img src="https://user-images.githubusercontent.com/5225318/118271792-20029180-b498-11eb-8903-c5cd0ac0d47c.png" width="30"> -
 Swagger
 
